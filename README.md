@@ -4,9 +4,9 @@
 
   
 ## 2강. 다양한 교육 자료 생성  
-PPT -  
-퀴즈 - https://forms.gle/8KAuLzQPLhKLAJzt7  
-자료 -
+* PPT: [Brisk로 생성한 프레젠테이션](./2강%20생성%20Presentation.pdf)
+* 퀴즈: https://forms.gle/8KAuLzQPLhKLAJzt7
+* 자료: [Brisk로 생성한 리소스](./양자역학%20-%20리소스.pdf)
 
 
 ## 3강. 자료 조사 및 보고서 작성
