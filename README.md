@@ -6,6 +6,7 @@
 ## 2강. 다양한 교육 자료 생성  
 PPT -  
 퀴즈 - https://forms.gle/8KAuLzQPLhKLAJzt7  
+자료 -
 
 
 ## 3강. 자료 조사 및 보고서 작성
