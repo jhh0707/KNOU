@@ -2,9 +2,11 @@
 #1. 생성 AI와 프롬프트 엔지니어링
 ![1강](1강.png)
 
+  
 #2. 다양한 교육 자료 생성
-PPT -
-퀴즈 - https://forms.gle/8KAuLzQPLhKLAJzt7
+PPT -  
+퀴즈 - https://forms.gle/8KAuLzQPLhKLAJzt7  
+
 
 #3. 자료 조사 및 보고서 작성
 
