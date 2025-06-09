@@ -13,7 +13,8 @@
 [Perplexity로 생성한 보고서-친환경 비누 산업의 최근 5년간 트렌드 분석](친환경%20비누%20산업의%20최근%205년간%20트렌드%20분석.pdf)
 
 ## 4강. 신제품 소개 프레젠테이션 및 안내자료 제작
-https://gamma.app/docs/Untitled-soeequ3r6ntl4x4
+* 링크 공유 버전: https://gamma.app/docs/Untitled-soeequ3r6ntl4x4  
+* 파일 버전: [Gamma로 생성한 PPT 자료](4강%20프레젠테이션%20생성.pdf)
 
 ## 5강. 생성 AI API를 활용한 엑셀 업무 자동화  
 
