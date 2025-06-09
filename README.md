@@ -1,7 +1,7 @@
 # KNOU
 ## 1강. 생성 AI와 프롬프트 엔지니어링
 * Microsoft Copilot 이용해보기
-![1강](1강.png)
+<img src="1강.png" width="1000" height="800"/>
 
   
 ## 2강. 다양한 교육 자료 생성  
@@ -23,9 +23,13 @@
 
 ## 6강. 생성 AI를 활용한 다양한 문서 생성  
 * Chat gpt를 이용해 지침을 참고한 사업계획서 작성하기
-![6강1](6강-chatgpt.png)
-Perplexity를 이용해 재무 계획표 작성하기  
-Claude를 이용해 포트폴리오 작성하기  
+<img src="6강-chatgpt.png" width="900" height="850"/>
+
+* Perplexity를 이용해 재무 계획표 작성하기
+<img src="" width="900" height="850"/>
+
+* Claude를 이용해 포트폴리오 작성하기
+<img src="" width="900" height="850"/>
 
 
 ## 7강. 생성 AI 활용 코드 작성 및 시뮬레이션  
