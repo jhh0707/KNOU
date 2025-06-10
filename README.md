@@ -54,6 +54,13 @@
 
 
 ## 8강. 마케팅 자료 제작  
+* Mircosoft designer를 통한 포스터 생성
+![8강-mic1](8강-mic.png)
+![8강-mic2](8강-mic2.png)
+
+* genspark를 통한 이미지 생성 및 비디오 생성
+![8강-gen1](8강-gen.png)
+![8강-gen2](8강-gen2.png)
 
 ## 9강. 홍보영상 제작  
 
